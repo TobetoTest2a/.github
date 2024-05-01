@@ -5,6 +5,7 @@
 </div>
 
 ###
+<img src="http://placekitten.com/200/300"> 
 
 
 | | | |
