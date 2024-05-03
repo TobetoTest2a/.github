@@ -16,8 +16,7 @@
 
 ###
 
-<p align="left">• Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>  •  Aliquam tincidunt mauris eu risus.<br>•    Vestibulum auctor dapibus neque.<br>  •  Nunc dignissim risus id metus.<br>  •  Cras ornare tristique elit.<br>  •  Vivamus vestibulum ntulla nec ante.<br>  •  Praesent placerat risus quis eros.<br>   • Fusce pellentesque suscipit nibh.<br>  •  Integer vitae libero ac risus egestas placerat.<br>  •  Vestibulum commodo felis quis tortor.<br>  •  Ut aliquam sollicitudin leo.<br>  •  Cras iaculis ultricies nulla.<br> •   Donec quis dui at dolor tempor interdum.</p>
-
+<p align="left">• Tobeto web sitesinin ürün kalitesini arttırmak.<br>  •  Varsa hatalarını tespit etmek ve raporlamak.<br>•    Müşteri gereksinimlerini sağladığınızdan emin olmak.<br>  •  Kullanıcı deneyimini iyileştirmek.<br>  •  İleride çıkabilecek sorunlara karşı önlem almak.<br> 
 ### 
 
 <h3 align="center">🛠 Kullandığımız Araçlar ve Yazılım dilleri</h3>
