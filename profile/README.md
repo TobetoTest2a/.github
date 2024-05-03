@@ -17,6 +17,7 @@
 ###
 
 <p align="left">• Tobeto web sitesinin ürün kalitesini arttırmak.<br>  •  Varsa hatalarını tespit etmek ve raporlamak.<br>•    Müşteri gereksinimlerini sağladığınızdan emin olmak.<br>  •  Kullanıcı deneyimini iyileştirmek.<br>  •  İleride çıkabilecek sorunlara karşı önlem almak.<br> 
+  
 ### 
 
 <h3 align="center">🛠 Kullandığımız Araçlar ve Yazılım dilleri</h3>
